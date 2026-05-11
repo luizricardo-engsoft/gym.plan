@@ -19,6 +19,7 @@
 
 ---
 
+https://luizricardo-engsoft.github.io/gym.plan/
 ## 🩸 Sobre o projeto
 
 Projeto pessoal criado para organizar meu dia a dia de treino, dieta e rotina de manutenção de forma visual e prática.
